@@ -1,3 +1,3 @@
-# Chai aur Backend Series
+# Video-Sharing Platform
 
-This is a video series on backend with javascript
+Backend code and logic of the video-sharing platform with core functionalities.
